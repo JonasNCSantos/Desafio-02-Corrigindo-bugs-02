@@ -1,4 +1,4 @@
-# Desafio 01 - Corrigindo bugs 02
+# Desafio 02 - Corrigindo bugs 02
 <img src="./images/screenshot.png"/>
 
 ## Sobre o desafio
