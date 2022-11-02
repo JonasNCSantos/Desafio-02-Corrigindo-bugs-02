@@ -1,5 +1,5 @@
 # Desafio 02 - Corrigindo bugs 02
-<img src="./images/screenshot.png"/>
+<img src="./images/screenshot2.png"/>
 
 ## Sobre o desafio
 O desafia proposto no curso Explorer da [Rocketseat](https://www.rocketseat.com.br/) referente aos ensinamentos do Stage 02. Onde recebemos o código quebrado para conserta-lo.
